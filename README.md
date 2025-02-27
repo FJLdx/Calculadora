@@ -27,9 +27,6 @@ Este es un proyecto simple de una calculadora desarrollada en Python utilizando 
 ## Dependencias
 Este proyecto solo requiere Python 3 y la biblioteca Tkinter, que suele venir incluida por defecto en la instalación de Python.
 
-## Captura de pantalla
-*(Puedes agregar aquí una imagen de la interfaz de la calculadora si lo deseas.)*
-
 ## Autor
 Desarrollado por **Franco Lazzarini**.
 
