@@ -100,5 +100,6 @@ class Calculadora:
         b.grid(row=row, column=col)
 
 root = tk.Tk()
+root.config(padx=20, pady=20)
 my_gui = Calculadora(root)
 root.mainloop()
